@@ -1,3 +1,3 @@
 # Shopify
 
-Preview [shopify-itstep.netlify.app](https://shopify-itstep.netlify.app)
+Preview [gp-shopify.netlify.app](https://gp-shopify.netlify.app)
